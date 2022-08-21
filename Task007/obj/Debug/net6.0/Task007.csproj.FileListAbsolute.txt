@@ -1,0 +1,15 @@
+F:\Homework\Task007\bin\Debug\net6.0\Task007.exe
+F:\Homework\Task007\bin\Debug\net6.0\Task007.deps.json
+F:\Homework\Task007\bin\Debug\net6.0\Task007.runtimeconfig.json
+F:\Homework\Task007\bin\Debug\net6.0\Task007.dll
+F:\Homework\Task007\bin\Debug\net6.0\Task007.pdb
+F:\Homework\Task007\obj\Debug\net6.0\Task007.csproj.AssemblyReference.cache
+F:\Homework\Task007\obj\Debug\net6.0\Task007.GeneratedMSBuildEditorConfig.editorconfig
+F:\Homework\Task007\obj\Debug\net6.0\Task007.AssemblyInfoInputs.cache
+F:\Homework\Task007\obj\Debug\net6.0\Task007.AssemblyInfo.cs
+F:\Homework\Task007\obj\Debug\net6.0\Task007.csproj.CoreCompileInputs.cache
+F:\Homework\Task007\obj\Debug\net6.0\Task007.dll
+F:\Homework\Task007\obj\Debug\net6.0\refint\Task007.dll
+F:\Homework\Task007\obj\Debug\net6.0\Task007.pdb
+F:\Homework\Task007\obj\Debug\net6.0\Task007.genruntimeconfig.cache
+F:\Homework\Task007\obj\Debug\net6.0\ref\Task007.dll
